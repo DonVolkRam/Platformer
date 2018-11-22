@@ -21,7 +21,7 @@ using System.IO;
 namespace AsyncTracer
 {
     public partial class MainWindow : Window
-    {
+    { 
         public MainWindow()
         {
             InitializeComponent();
